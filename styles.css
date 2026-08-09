@@ -103,7 +103,7 @@ input,textarea{padding:12px;border:1px solid #e8eee6;border-radius:12px;font-siz
 /* MOBILE */
 @media (max-width:600px){
     .hero{padding:50px 18px}
-    .hero h1{font-size:clamp(44px,14vw,70px);letter-spacing:-2px}
+    .hero h1{font-size:clamp(44px,12vw,70px);letter-spacing:-2px}
     .hero p{font-size:16px}
     .hero .date{font-size:14px}
     main.container{padding-top:15px}
